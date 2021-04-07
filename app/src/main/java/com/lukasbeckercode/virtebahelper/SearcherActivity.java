@@ -24,7 +24,10 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 
 public class SearcherActivity extends AppCompatActivity {
@@ -35,9 +38,9 @@ public class SearcherActivity extends AppCompatActivity {
 
 
 
-    private final String [] codesComplete = new String[158] ;   //A String array that saves each read line, Length=number of lines -1
-    private final String [] code =new String[158]; //the number of the diagnosis
-    private final String [] diag = new String[158]; //the diagnosis
+    private final List<String> codesComplete = new ArrayList<>();
+    private final List<String> code =new ArrayList<>();
+    private final List<String> diag = new ArrayList<>();
 
     private InputStream stream; //a stream reader that reads a text file with all the diagnosis inside
     private BufferedReader reader;
@@ -69,14 +72,15 @@ public class SearcherActivity extends AppCompatActivity {
                     String data;
                     for (int i = 0; (data = reader.readLine()) != null; i++) //read until every line is finished
                     {
-                        codesComplete[i] = data; //add the data to the Array
+                        codesComplete.add(data); //add the data to the Array
                     }
 
-                    for (int i = 0; i < codesComplete.length; i++) {
-                        code[i] = codesComplete[i].substring(0, codesComplete[i].indexOf("---")); //read the code
-                        diag[i] = codesComplete[i].substring(codesComplete[i].indexOf("---") + 3); //read the diagnosis
-
-
+                    for (int i = 0; i < codesComplete.size(); i++) {
+                        String currElement = codesComplete.get(i);
+                        String tempCode = currElement.substring(0,currElement.indexOf("---"));
+                        String tempDiag = currElement.substring(currElement.indexOf("---")+3);
+                        code.add(tempCode);
+                        diag.add(tempDiag);
                     }
 
 
@@ -102,8 +106,8 @@ public class SearcherActivity extends AppCompatActivity {
         //Listener for when somebody clicks any item of the textView
      textView.setOnItemClickListener((parent, view, position, id) -> {
         String selectedItem = textView.getText().toString(); //save the selected item to a local variable
-         int pos = Arrays.asList(diag).indexOf(selectedItem); // save the position of the selection within the Array to pos
-         number.setText(code[pos]); //display the corresponding number to the chosen item
+         int pos = diag.indexOf(selectedItem);  // save the position of the selection within the Array to pos
+         number.setText(code.get(pos)); //display the corresponding number to the chosen item
 
      });
 
