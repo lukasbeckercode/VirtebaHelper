@@ -1,0 +1,27 @@
+1---Hintransport stationär
+2---Heimtransport stationär
+3---Hintransport ambulant
+4---Heimtransport ambulant
+5---Kombination Hintransport/Heimtransport stationär
+6---Kombination Hintransport/Heimtransport ambulant
+7---Verlegung
+8---Zwischentransport
+9---Anschlusstransport
+10---Übergabe NAH
+11---Übergabe NAW
+12---Mitfahrt verweigert
+13---Leerfahrt
+14---Übergabe RTW
+15---Belassung
+16---Erste Hilfe-Einsatz
+17---Dialyse
+51---LKH West <-> BHB 1 Pat.
+52---LKH West <-> BHB 2 Pat.
+53---LKH West <-> BHB 3 Pat.
+54---LKH West -> BHB II
+55---AUKH -> BHB II
+56---LKH West 1 Pat.
+57---LKH West 2 Pat.
+58---LKH West 3 Pat.
+59---Einsatzrücknahme
+99---sonstiger Transport

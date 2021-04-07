@@ -1,0 +1,158 @@
+125---Reanimation nicht traumatisch
+131---Reanimation traumatisch
+210---Sonstige Kombinierte Verletzungen(Chirurgie)
+211---Polytrauma mit SHT
+212---Polytrauma ohne SHT
+214---Gesichts-/ Kopfverletzung(ausser Kopfplatzwunde)
+215---Gesichts-/ Kopfverletzung mit Augenbeteiligung
+216---Gesichts-/ Kopfverletzung mit HNO- oder MKG-Beteiligung
+221---Schädelhirntrauma (SHT) offen
+222---Schädelhirntrauma (SHT) geschlossen
+230---sonstige thoraxchirurgische Verletzung
+231---Thoraxverletzung penetrierend
+232---Thoraxverletzung geschlossen/stumpf
+234---Riss-, Quetsch-, Schnitt-, Stich-, Kopfplatzwunde
+235---Bisswunde
+236---Dekubitus
+240---sonstige bauchchirurgische Notfälle
+241---Abdomenverletzung penetrierend
+242---Abdomenverletzung geschlossen/ stumpf
+243---Akutes Abdomen(nicht traumatisch)
+244---V.a. Blinddarmentzündung
+251---Wirbelsäulentrauma mit neurolog. Ausfällen
+252---Wirbelsäulentrauma ohne neurolog. Ausfällen
+253---Wirbelsäule/ Bandscheibe nicht traumatisch mit neurolog. Ausfällen
+254---Wirbelsäule/ Bandscheibe nicht traumatisch ohne neurolog. Ausfällen
+270---sonstige kombinierte Extremitätenverletzung
+271---Extremitätenfraktur offen
+272---Extremitätenfraktur geschlossen
+273---Schenkelhalsfraktur
+274---Gelenksluxation
+275---sonstige Handverletzung
+276---Hand-Amputation
+277---Finger-Amputation
+278---Extremitäten-Amputation
+279---Extremitäten Verstauchung, Zerrung, Prellung
+282---Verätzung
+283---Blitzschlag/ Hochspannungstrauma
+284---Verbrennung/ Verbrühung 1.Grades
+285---Verbrennung/ Verbrühung 2.Grades oder 3.Grades
+290---sonstige gefäßchirurgische Notfälle
+291---Extremitätenverletzung mit Gefäß-/ Nervenbeteiligung
+292---Aortenaneurysma
+293---Extremität kühl, pulslos
+294---Extremität gerötet und überwärmt
+305---Atemstillstand oder Atemfrequenz <6/min
+306---Atemnot mit Sauerstoffsättigung <90%
+307---Atemnot mit Sauerstoffsättigung 90-95%
+308---Allergische Reaktion mit Atemnot
+310---sonstige respiratorische Erkrankungen
+312---Asthma/COPD
+313---Bluthusten
+314---Bolusgeschehen/ Aspiration
+315---Atemwegsinfekt
+316---Hyperventilation
+317---Rauchgas-/ Reizgasexposition(keine CO-Intoxikation)
+319---(Beinahe-) Ertrinken
+320---sonstige internistische Erkrankung 
+321---Allergische Reaktion
+322---Synkope/ Kollaps
+323---Hypertonie
+324---Hypotonie
+325---Thrombose
+326---Fieber
+327---Hitzeerschöpfung/ Hitzeschlag
+328---Unterkühlung/ Erfrierung
+329---Exikkose
+331---Herzinfarkt <12h (EKG gesichert)
+332---Herzinfarkt >12h (EKG gesichert)
+333---Akutes Koronarsyndrom(ACS)
+334---Brustschmer, kardial
+335---Brustschmer, nicht kardial
+341---Arrhythmie/ Rhythmusstörung
+344---Elektrounfall(Niederspannung)
+348---Herzinsuffizienz/ Lungenödem
+349---Lungenembolie
+350---sonstige gastroenterologische Erkrankungen
+351---Bluterbrechen
+352---rektaler Blutabgang/ Teerstuhl
+353---unklares Abdomen(nicht Chirurgisch)
+354---Durchfall
+355---Übelkeit/ Erbrechen
+356---Verätzung/ Stoff verschluckt(innerlich)
+357---Kolik(nicht Nierenkolik)
+360---sonstige Intoxikationen
+361---Alkoholintoxikation
+362---Drogenintoxikation
+363---Mischintoxikation Alkohol/ Drogen/ Medikamente
+364---Lebensmittelintoxikation
+365---Medikamentenintoxikation
+366---Pflanzenschutzmittelintoxikation
+367---Tierische Gift-/ Giftpflanzenintoxikation
+368---Intoxikation mit Agitation
+370---sonstige infektiologische Erkrankungen
+371---Definierte Infektionskrankheit
+372---Meningitis
+373---Tuberkulose(TBC)
+374---septischer Schock
+376---COVID-19 Verdacht
+377---COVID-19 Positiv
+379---(V.a.)hochansteckende Erkrankung: Tuberkulose, Noro-, Rotavirus, Masern, Röteln, Mumps, Varicellen, Ebola, sonst.
+410---sonstige neurologische Erkrankungen
+411---Krampfanfall bei bekanntem Krampfleiden
+412---erstmaliger Krampfanfall
+413---Kopfschmerz
+414---unklare Bewusstlosigkeit
+415---Verwirrtheit(neu aufgetreten)
+416---akuter Schwindel
+421---Insult/ TIA/ Blutung <6h
+422---Insult/ TIA/ Blutung 6-24h
+423---Insult/ TIA/ Blutung >24h
+430---sonstige psychiatrische Erkrankungen
+431---Suizidversuch(drohend)
+434---Psychiatrische Einweisung
+436---Psychiatrischer Ausnahmezustand
+437---Psychiatrische Einweisung nach §8 UBG weiblich
+438---Psychiatrische Einweisung nach §8 UBG männlich
+511---Pädiatrie-Atemnot
+512---Krupp/ Pseudokrupp
+513---Pädiatrie- Fieberkrampf
+514---Pädiatrie- Epilepsie
+520---sonstige Schwangerschaftsprobleme
+521---Entbindung/ Einsetzende Geburt <34 SSW
+522---Entbindung/ Einsetzende Geburt >= 34 SSW
+523---Vorzeitige Wehentätigkeit
+524---Präklinische Geburt
+525---Präklinische Frühgeburt
+526---Eklampsie
+527---Vaginale Blutung während der Schwangerschaft
+528---Blasensprung
+530---sonstige gynäkologische Erkrankungen
+531---Vaginale Blutung
+532---Unterbauchschmerzen
+533---Sexualdelikt
+703---Haut- und Geschlechtskrankheiten
+710---sonstige urologische Erkrankungen
+711---Flankenschmerz/ Nieren-/ Harnleiterkolik
+712---Hoden-/ Penisschmerz
+713---Harnverhalt
+714---Blut im Harn
+715---Katheterwechsel/ Katheterproblem
+717---Harnwegsinfekt
+718---isoliertes Trauma im Genitalbereich(männlich)
+719---isoliertes Trauma im Genitalbereich(weiblich)
+720---sonstige augenheilkundliche Erkrankungen
+721---Augenverletzung mit Fremdkörper
+722---Augenverletzung ohne Fremdkörper
+723---Akute Augenerkrankung/ Schmerzen/ Rötung
+724---Augenverletzung durch Chemikalien
+725---Akute Sehstörung/ Sehverlust
+730---sonstige HNO-Erkrankungen
+731---Akutes Nasenbluten
+732---Barotrauma
+733---Hörsturz
+734---postoperative Nachblutung
+735---Fremdkörper in Ohr/ Nase
+736---Tinnitus
+741---Zahn-, Mund-, Kiefer- Erkrankung
+751---Strahlenexposition

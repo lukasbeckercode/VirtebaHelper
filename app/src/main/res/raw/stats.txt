@@ -1,0 +1,53 @@
+1---Alkoholmissbrauch
+2---Ambulanz
+3---Anpassung Heilbehelfe
+4---Arbeit (Unfall)
+5---Augenabteilung
+6---Berufskrankheit
+7---Blut/Organ
+8---Chirurgisch
+9---Dialyse
+10---Dienstfahrt
+11---Unfall sonst.
+12---Entbindung
+13---Erkrankung allg.
+14---Erstickung
+15---Erziehung/Schüler (Unfall)
+16---Freizeit (Unfall)
+17---Gefäßchirurgie
+18---Geisteskrankheit
+19---Gesundheitsvorsorge
+20---Gewalt/Verbrechen
+21---Haushalt (Unfall)
+22---Hilfeleistung
+23---Hundebiss
+24---Infektion
+25---K-Einsatzübung
+26---Kieferchirurgie
+27---Kontrolle, Arzt
+28---Landwirtschaft (Unfall)
+29---Leerfahrt
+30---Medikamente (Sachtransport)
+31---Physiotherapie
+32---plast. Chirurgie
+33---Raufhandel
+34---Rehabilitation (Aufenthalt)
+35---Schnellschnitt
+36---Schrittmacherkontrolle
+37---Suizid
+38---Sozialdienst
+39---Sport/Spiel (Unfall)
+40---Stahlen/Chemo
+41---Stromunfall
+42---Suchtgiftmissbrauch
+43---Therapie
+44---Tierverletzung allg.
+45---tot angetroffen
+46---Tod fraglich
+47---Vergiftung
+48---Verkehr (Unfall)
+49---Wagengeburt
+50---CT
+51---Paragraph 8
+52---Einsatzrücknahme
+99---Sonstiges

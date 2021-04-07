@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VirtebaHelper</string>
+    <string name="age">Alter</string>
+    <string name="age_calc">Alter Errechnen</string>
+    <string name="agecalc_view">Altersrechner</string>
+    <string name="surgery_view">Chirugie-Codes</string>
+    <string name="age_invalid">Format DD.MM.YYYY verwenden</string>
+    <string name="gyn_pedi_view">Gyn/Pädiatrie-Codes</string>
+    <string name="med_view">Innere-Codes</string>
+    <string name="neuro_view">Neuro-Codes</string>
+    <string name="psych_view">Psych-Codes</string>
+    <string name="misc_view">Sonstige Codes</string>
+    <string name="search_function">Suchfunktion</string>
+    <string name="date_invalid">Ungültiges Geburtsdatum</string>
+    <string name="back">Zurück</string>
+    <string name="enter_diag">Diagnose eingeben...</string>
+</resources>
