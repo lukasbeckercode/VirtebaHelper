@@ -3,7 +3,7 @@ This is the Searcher Class, in here, you can look for codes by entering Keywords
 We are reading the pzc.txt file separately here to improve performance
 */
 
-package com.lukasbeckercode.virtebahelper;
+package com.lukasbeckercode.helper;
 
 
 import android.annotation.SuppressLint;
@@ -25,8 +25,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 

@@ -5,7 +5,7 @@ Copyright: Lukas Becker, 2019
 */
 
 
-package com.lukasbeckercode.virtebahelper;
+package com.lukasbeckercode.helper;
 
 //imports handled by IntelliJ
 import android.content.Intent;

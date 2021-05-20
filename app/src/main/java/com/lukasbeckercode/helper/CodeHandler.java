@@ -1,4 +1,4 @@
-package com.lukasbeckercode.virtebahelper;
+package com.lukasbeckercode.helper;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

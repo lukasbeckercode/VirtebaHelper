@@ -1,4 +1,4 @@
-package com.lukasbeckercode.virtebahelper;
+package com.lukasbeckercode.helper;
 
 import android.content.Intent;
 import android.os.Bundle;

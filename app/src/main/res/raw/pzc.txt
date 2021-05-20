@@ -33,7 +33,7 @@
 277---Finger-Amputation
 278---Extremitäten-Amputation
 279---Extremitäten Verstauchung, Zerrung, Prellung
-282---Verätzung
+282---Verätzung (äußerlich)
 283---Blitzschlag/ Hochspannungstrauma
 284---Verbrennung/ Verbrühung 1.Grades
 285---Verbrennung/ Verbrühung 2.Grades oder 3.Grades
@@ -67,8 +67,8 @@
 331---Herzinfarkt <12h (EKG gesichert)
 332---Herzinfarkt >12h (EKG gesichert)
 333---Akutes Koronarsyndrom(ACS)
-334---Brustschmer, kardial
-335---Brustschmer, nicht kardial
+334---Brustschmerz, kardial
+335---Brustschmerz, nicht kardial
 341---Arrhythmie/ Rhythmusstörung
 344---Elektrounfall(Niederspannung)
 348---Herzinsuffizienz/ Lungenödem
@@ -76,9 +76,9 @@
 350---sonstige gastroenterologische Erkrankungen
 351---Bluterbrechen
 352---rektaler Blutabgang/ Teerstuhl
-353---unklares Abdomen(nicht Chirurgisch)
+353---unklares Abdomen(nicht chirurgisch)
 354---Durchfall
-355---Übelkeit/ Erbrechen
+355---Übelkeit, Erbrechen
 356---Verätzung/ Stoff verschluckt(innerlich)
 357---Kolik(nicht Nierenkolik)
 360---sonstige Intoxikationen

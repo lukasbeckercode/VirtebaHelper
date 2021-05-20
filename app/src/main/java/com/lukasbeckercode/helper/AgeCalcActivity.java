@@ -1,7 +1,7 @@
 /*
 This is the Age Calculator Class
 */
-package com.lukasbeckercode.virtebahelper;
+package com.lukasbeckercode.helper;
 
 //imports handled by intelliJ
 import android.content.Intent;

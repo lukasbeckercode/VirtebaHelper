@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lukasbeckercode.virtebahelper">
+    package="com.lukasbeckercode.helper">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VirtEBAHelper"
         >
-        <activity android:name=".StartUpActivity" >
+        <activity android:name="com.lukasbeckercode.helper.StartUpActivity" >
         <intent-filter>
         <action android:name="android.intent.action.MAIN" />
 
@@ -18,13 +18,13 @@
          </intent-filter>
         </activity>
 
-        <activity android:name=".TypeAndCodeActivity"
+        <activity android:name="com.lukasbeckercode.helper.TypeAndCodeActivity"
             android:windowSoftInputMode="stateHidden" />
-        <activity android:name=".AgeCalcActivity" />
+        <activity android:name="com.lukasbeckercode.helper.AgeCalcActivity" />
         <activity
-            android:name=".CategoryViewActivity"
+            android:name="com.lukasbeckercode.helper.CategoryViewActivity"
             android:windowSoftInputMode="stateHidden" />
-        <activity android:name=".SearcherActivity" />
+        <activity android:name="com.lukasbeckercode.helper.SearcherActivity" />
     </application>
 
 </manifest>
